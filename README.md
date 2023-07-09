@@ -1,6 +1,6 @@
 
 # E-HEAL
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Divya%20Kumari-blue)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Divya%20Kumari Mishra-blue)
 ---
 ## Drawbacks/LoopHoles
 - Any one can be Admin. There is no Approval required for admin account. So you can disable admin signup process and use any logic like creating superuser.
