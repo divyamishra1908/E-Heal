@@ -6,8 +6,8 @@ This is a comprehensive web-based solution designed to streamline hospital opera
 
 <b>Appointment Booking</b>– Patients can easily schedule consultations based on availability.
 
-Doctor Slot Management – Real-time slot allocation and visibility for efficient scheduling.
+<b>Doctor Slot Management</b> – Real-time slot allocation and visibility for efficient scheduling.
 
-Availability Dashboard – Intuitive view of doctors' availability to minimize conflicts and improve resource utilization.
+<b>Availability Dashboard</b> – Intuitive view of doctors' availability to minimize conflicts and improve resource utilization.
 
 The system aims to simplify administrative workflows, reduce manual overhead, and ensure a smoother experience for both healthcare providers and patients. 
