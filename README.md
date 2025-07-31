@@ -9,7 +9,7 @@ This is a comprehensive web-based solution designed to streamline hospital opera
 <b>Availability Dashboard</b> – Intuitive view of doctors' availability to minimize conflicts and improve resource utilization.
 The system aims to simplify administrative workflows, reduce manual overhead, and ensure a smoother experience for both healthcare providers and patients. 
 
-|Main|  | ![main](https://github.com/user-attachments/assets/217710ec-bb88-4252-b559-0e9988c01df6)
+|Main| ![main](https://github.com/user-attachments/assets/217710ec-bb88-4252-b559-0e9988c01df6)
 
 |Home Page |![WhatsApp Image 2025-07-31 at 10 53 10 PM](https://github.com/user-attachments/assets/dd9e3c98-6597-43b1-998e-e150dae6301d) |
 |-----------| ------------- | 
